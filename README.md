@@ -1,6 +1,8 @@
 # Dashboard_OCTROI_RUN
 🏝️ Dashboard Octroi de Mer - La Réunion 🔴 DONNÉES FISCALES EN TEMPS RÉEL  Surveillance et analyse des recettes de l'Octroi de Mer par secteur économique
 
+<img width="662" height="465" alt="Screenshot_2025-10-08_18-46-13" src="https://github.com/user-attachments/assets/244ca46b-c455-46ea-a730-7349927024ba" />
+
 
 # EXAMPLE 
 
